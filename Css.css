@@ -1,0 +1,351 @@
+.portafolio-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.portafolio-portafolio {
+  width: 100%;
+  height: 8150px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.portafolio-rectangle35 {
+  top: 191.5px;
+  left: 0px;
+  width: 1920px;
+  height: 787px;
+  position: absolute;
+}
+.portafolio-rectangle36 {
+  top: 191px;
+  left: 0px;
+  width: 1920px;
+  height: 787px;
+  position: absolute;
+}
+.portafolio-text {
+  top: 488px;
+  left: 526px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 120px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Amaranth;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portafolio-rectangle11 {
+  top: 7996px;
+  left: 0px;
+  width: 1920px;
+  height: 154px;
+  position: absolute;
+}
+.portafolio-rectangle21 {
+  top: 2848px;
+  left: 0px;
+  width: 1920px;
+  height: 4641px;
+  position: absolute;
+}
+.portafolio-rectangle25 {
+  top: 3997px;
+  left: 934px;
+  width: 809px;
+  height: 481px;
+  position: absolute;
+}
+.portafolio-rectangle12 {
+  top: 4555px;
+  left: 934px;
+  width: 809px;
+  height: 889px;
+  position: absolute;
+}
+.portafolio-rectangle26 {
+  top: 3365px;
+  left: 934px;
+  width: 809px;
+  height: 523px;
+  position: absolute;
+}
+.portafolio-text02 {
+  top: 2969px;
+  left: 108px;
+  color: rgba(84, 17, 86, 1);
+  height: auto;
+  position: absolute;
+  font-size: 100px;
+  font-style: italic;
+  text-align: center;
+  font-family: Archivo;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portafolio-text04 {
+  top: 3114px;
+  left: 115px;
+  color: rgba(110, 102, 113, 1);
+  width: 1691px;
+  height: auto;
+  position: absolute;
+  font-size: 80px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Archivo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portafolio-text06 {
+  top: 1139px;
+  left: 288px;
+  color: rgba(110, 102, 113, 1);
+  width: 1345px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Archivo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portafolio-text08 {
+  top: 1305px;
+  left: 809px;
+  color: rgba(113, 23, 145, 1);
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: italic;
+  text-align: center;
+  font-family: Archivo;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portafolio-text10 {
+  top: 1556px;
+  left: 1471px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Archivo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portafolio-rectangle9 {
+  top: 3365px;
+  left: 145px;
+  width: 701px;
+  height: 935px;
+  position: absolute;
+}
+.portafolio-rectangle27 {
+  top: 4377px;
+  left: 152px;
+  width: 694px;
+  height: 866px;
+  position: absolute;
+}
+.portafolio-rectangle24 {
+  top: 5320px;
+  left: 145px;
+  width: 701px;
+  height: 670px;
+  position: absolute;
+}
+.portafolio-rectangle10 {
+  top: 6067px;
+  left: 152px;
+  width: 694px;
+  height: 848px;
+  position: absolute;
+}
+.portafolio-rectangle13 {
+  top: 6338px;
+  left: 960px;
+  width: 783px;
+  height: 848px;
+  position: absolute;
+}
+.portafolio-rectangle8 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 191px;
+  position: absolute;
+}
+.portafolio-rectangle41 {
+  top: 21px;
+  left: 1721px;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+.portafolio-rectangle6 {
+  top: 1501px;
+  left: 641px;
+  width: 1279px;
+  height: 654px;
+  position: absolute;
+}
+.portafolio-text12 {
+  top: 2449px;
+  left: 100px;
+  color: rgba(184, 132, 202, 1);
+  height: auto;
+  position: absolute;
+  font-size: 120px;
+  font-style: italic;
+  text-align: center;
+  font-family: Archivo;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portafolio-text14 {
+  top: 1589px;
+  left: 755px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: italic;
+  text-align: center;
+  font-family: Archivo;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portafolio-whats-app-image20240317at19561 {
+  top: 1501px;
+  left: 0px;
+  width: 641px;
+  height: 654px;
+  position: absolute;
+}
+.portafolio-whats-app-image20240317at22371 {
+  top: 5538px;
+  left: 959px;
+  width: 784px;
+  height: 706px;
+  position: absolute;
+}
+.portafolio-rectangle37 {
+  top: 7489px;
+  left: 0px;
+  width: 1920px;
+  height: 507px;
+  position: absolute;
+}
+.portafolio-text16 {
+  top: 7697px;
+  left: 321px;
+  color: rgba(225, 224, 224, 1);
+  height: auto;
+  position: absolute;
+  font-size: 100px;
+  font-style: italic;
+  text-align: center;
+  font-family: Archivo;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portafolio-text18 {
+  top: 7679px;
+  left: 1095px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Archivo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.portafolio-text20 {
+  top: 7741px;
+  left: 1095px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Archivo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+.portafolio-rectangle38 {
+  top: 2415px;
+  left: 971px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.portafolio-rectangle39 {
+  top: 2415px;
+  left: 1295px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.portafolio-rectangle40 {
+  top: 2415px;
+  left: 1613px;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
+.portafolio-text22 {
+  top: 1688px;
+  left: 741px;
+  color: rgba(255, 255, 255, 1);
+  width: 1097px;
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Archivo;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+{
+
+}
